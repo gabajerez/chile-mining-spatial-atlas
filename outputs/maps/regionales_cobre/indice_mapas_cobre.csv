@@ -1,0 +1,17 @@
+﻿codreg,region,n_comunas,n_comunas_con_cobre,cobre_ha,proyectos_cochilco_cobre,archivo
+01,Tarapacá,7,3,18809.402203968028,4,01_tarapaca_cobre_comunal.png
+02,Antofagasta,9,7,111419.45129105136,18,02_antofagasta_cobre_comunal.png
+03,Atacama,9,7,26481.18837949497,9,03_atacama_cobre_comunal.png
+04,Coquimbo,15,13,10768.760385877586,4,04_coquimbo_cobre_comunal.png
+05,Valparaíso,36,11,6623.874241942698,1,05_valparaiso_cobre_comunal.png
+06,O'Higgins,33,2,4471.798809784939,1,06_o_higgins_cobre_comunal.png
+07,Maule,30,1,18.680087972088987,0,07_maule_cobre_comunal.png
+08,Biobío,33,0,0.0,0,08_biobio_cobre_comunal.png
+09,La Araucanía,32,0,0.0,0,09_la_araucania_cobre_comunal.png
+10,Los Lagos,30,0,0.0,0,10_los_lagos_cobre_comunal.png
+11,Aysén,10,0,0.0,0,11_aysen_cobre_comunal.png
+12,Magallanes,10,2,18.803180016478688,0,12_magallanes_cobre_comunal.png
+13,Metropolitana,52,4,6463.258111098282,3,13_metropolitana_cobre_comunal.png
+14,Los Ríos,12,0,0.0,0,14_los_rios_cobre_comunal.png
+15,Arica y Parinacota,4,3,619.4554708871356,0,15_arica_y_parinacota_cobre_comunal.png
+16,Ñuble,21,0,0.0,0,16_nuble_cobre_comunal.png

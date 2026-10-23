@@ -1,0 +1,64 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entornos
+.env
+.venv/
+conda-meta/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Datos geoespaciales originales y procesados
+/data/raw/
+/data/external/
+/data/processed/
+
+# Archivos fuente originales en la raiz
+/*.shp
+/*.shx
+/*.dbf
+/*.prj
+/*.cpg
+/*.qmd
+/*.geojson
+
+# Registros locales
+/logs/
+
+# Checkpoints intermedios
+*checkpoint.csv
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Datos individuales potencialmente sensibles
+/outputs/tables/cochilco_integracion_proyectos.csv
+
+# Salidas auxiliares de auditoria
+/reports/audit_attribute_categories.csv
+/reports/audit_identifiers.csv
+/outputs/tables/concesiones_geometrias_pendientes.csv
+
+# Copias de seguridad de scripts
+/src/*_v1.py
+/src/*_pre_correccion.py
+
+# Auditorias y tablas internas no publicadas
+/reports/audit_*.csv
+/outputs/tables/concesiones_control_geometrico.csv
+/outputs/tables/concesiones_final_control.csv
+/outputs/tables/concesiones_piloto_antofagasta.csv
+/outputs/tables/concesiones_por_comuna.csv
+/outputs/tables/concesiones_resumen_preparacion.csv
+/outputs/tables/control_disolucion_comunal.csv
+/outputs/tables/control_solapamiento_comunas.csv
+
+# Inventario local completo de archivos
+/reports/manifest_outputs.csv

@@ -1,0 +1,19 @@
+﻿name: mapas_gm
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - rasterio
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - pyarrow
+  - openpyxl

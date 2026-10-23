@@ -1,0 +1,346 @@
+﻿codreg,codpro,codcom,nomreg,nompro,nomcom,superficie_ha
+01,011,01101,Región de Tarapacá,Iquique,Iquique,229077.00483823763
+01,011,01107,Región de Tarapacá,Iquique,Alto Hospicio,57147.3545655102
+01,014,01401,Región de Tarapacá,Tamarugal,Pozo Almonte,1377544.4582828225
+01,014,01402,Región de Tarapacá,Tamarugal,Camiña,220145.49097022376
+01,014,01403,Región de Tarapacá,Tamarugal,Colchane,401100.4344625332
+01,014,01404,Región de Tarapacá,Tamarugal,Huara,1047916.2380615908
+01,014,01405,Región de Tarapacá,Tamarugal,Pica,898978.206636108
+02,021,02101,Región de Antofagasta,Antofagasta,Antofagasta,3070221.5266505717
+02,021,02102,Región de Antofagasta,Antofagasta,Mejillones,357758.7827093347
+02,021,02103,Región de Antofagasta,Antofagasta,Sierra Gorda,1289242.2698746275
+02,021,02104,Región de Antofagasta,Antofagasta,Taltal,2042416.423133549
+02,022,02201,Región de Antofagasta,El Loa,Calama,1554471.434498682
+02,022,02202,Región de Antofagasta,El Loa,Ollagüe,292772.60400681815
+02,022,02203,Región de Antofagasta,El Loa,San Pedro de Atacama,2361251.604551684
+02,023,02301,Región de Antofagasta,Tocopilla,Tocopilla,412290.64936698676
+02,023,02302,Región de Antofagasta,Tocopilla,María Elena,1233912.3485466163
+03,031,03101,Región de Atacama,Copiapó,Copiapó,1779210.6263332341
+03,031,03102,Región de Atacama,Copiapó,Caldera,368082.10337599454
+03,031,03103,Región de Atacama,Copiapó,Tierra Amarilla,1125833.0295718934
+03,032,03201,Región de Atacama,Chañaral,Chañaral,576087.6775143202
+03,032,03202,Región de Atacama,Chañaral,Diego de Almagro,1898150.4515487785
+03,033,03301,Región de Atacama,Huasco,Vallenar,722813.8853235384
+03,033,03302,Región de Atacama,Huasco,Alto del Carmen,615932.5522483885
+03,033,03303,Región de Atacama,Huasco,Freirina,322149.2528115063
+03,033,03304,Región de Atacama,Huasco,Huasco,160194.94470056603
+04,041,04101,Región de Coquimbo,Elqui,La Serena,190086.78417115394
+04,041,04102,Región de Coquimbo,Elqui,Coquimbo,142634.32136217022
+04,041,04103,Región de Coquimbo,Elqui,Andacollo,51425.28253512117
+04,041,04104,Región de Coquimbo,Elqui,La Higuera,416552.70307756105
+04,041,04105,Región de Coquimbo,Elqui,Paiguano,151383.67342835435
+04,041,04106,Región de Coquimbo,Elqui,Vicuña,758169.2545007834
+04,042,04201,Región de Coquimbo,Choapa,Illapel,262945.6481406233
+04,042,04202,Región de Coquimbo,Choapa,Canela,219574.78173397935
+04,042,04203,Región de Coquimbo,Choapa,Los Vilos,185880.08124821883
+04,042,04204,Región de Coquimbo,Choapa,Salamanca,344726.11934759445
+04,043,04301,Región de Coquimbo,Limarí,Ovalle,354911.4118924754
+04,043,04302,Región de Coquimbo,Limarí,Combarbalá,229586.83743149752
+04,043,04303,Región de Coquimbo,Limarí,Monte Patria,421189.6146246601
+04,043,04304,Región de Coquimbo,Limarí,Punitaqui,109195.20523820071
+04,043,04305,Región de Coquimbo,Limarí,Río Hurtado,220515.70324873694
+05,051,05101,Región de Valparaíso,Valparaíso,Valparaíso,31067.28177548056
+05,051,05102,Región de Valparaíso,Valparaíso,Casablanca,95440.69977605426
+05,051,05103,Región de Valparaíso,Valparaíso,Concón,7689.477610900785
+05,051,05105,Región de Valparaíso,Valparaíso,Puchuncaví,29935.4011605654
+05,051,05107,Región de Valparaíso,Valparaíso,Quintero,14602.444217453334
+05,051,05109,Región de Valparaíso,Valparaíso,Viña del Mar,12049.450123817835
+05,053,05301,Región de Valparaíso,Los Andes,Los Andes,123506.3030925179
+05,053,05302,Región de Valparaíso,Los Andes,Calle Larga,32132.75709614882
+05,053,05303,Región de Valparaíso,Los Andes,Rinconada,12284.120195813657
+05,053,05304,Región de Valparaíso,Los Andes,San Esteban,137509.1115611123
+05,054,05401,Región de Valparaíso,Petorca,La Ligua,116374.80861033291
+05,054,05402,Región de Valparaíso,Petorca,Cabildo,145509.9577784927
+05,054,05403,Región de Valparaíso,Petorca,Papudo,16613.74577886211
+05,054,05404,Región de Valparaíso,Petorca,Petorca,151577.75959420152
+05,054,05405,Región de Valparaíso,Petorca,Zapallar,28824.11427203339
+05,055,05501,Región de Valparaíso,Quillota,Quillota,30114.09280737929
+05,055,05502,Región de Valparaíso,Quillota,Calera,5997.813269115054
+05,055,05503,Región de Valparaíso,Quillota,Hijuelas,26811.77187911877
+05,055,05504,Región de Valparaíso,Quillota,La Cruz,7784.009816146119
+05,055,05506,Región de Valparaíso,Quillota,Nogales,40540.98871943452
+05,056,05601,Región de Valparaíso,San Antonio,San Antonio,39983.58370701389
+05,056,05602,Región de Valparaíso,San Antonio,Algarrobo,17617.322033770128
+05,056,05603,Región de Valparaíso,San Antonio,Cartagena,24374.53015282283
+05,056,05604,Región de Valparaíso,San Antonio,El Quisco,5140.48747623077
+05,056,05605,Región de Valparaíso,San Antonio,El Tabo,9949.844870573137
+05,056,05606,Región de Valparaíso,San Antonio,Santo Domingo,53653.30318559004
+05,057,05701,Región de Valparaíso,San Felipe,San Felipe,18726.416495715792
+05,057,05702,Región de Valparaíso,San Felipe,Catemu,36216.6264137645
+05,057,05703,Región de Valparaíso,San Felipe,Llaillay,34884.542361964246
+05,057,05704,Región de Valparaíso,San Felipe,Panquehue,12035.420993643409
+05,057,05705,Región de Valparaíso,San Felipe,Putaendo,145164.75730425242
+05,057,05706,Región de Valparaíso,San Felipe,Santa María,16577.007126287423
+05,058,05801,Región de Valparaíso,Margamarga,Quilpué,53631.82217486491
+05,058,05802,Región de Valparaíso,Margamarga,Limache,29478.07074115637
+05,058,05803,Región de Valparaíso,Margamarga,Olmué,23128.311018173583
+05,058,05804,Región de Valparaíso,Margamarga,Villa Alemana,9633.142058709087
+06,061,06101,Región del Libertador General Bernardo O'Higgins,Cachapoal,Rancagua,26096.798334452564
+06,061,06102,Región del Libertador General Bernardo O'Higgins,Cachapoal,Codegua,28423.5291149808
+06,061,06103,Región del Libertador General Bernardo O'Higgins,Cachapoal,Coinco,9734.0138213256
+06,061,06104,Región del Libertador General Bernardo O'Higgins,Cachapoal,Coltauco,22189.987745901653
+06,061,06105,Región del Libertador General Bernardo O'Higgins,Cachapoal,Doñihue,8056.730589621982
+06,061,06106,Región del Libertador General Bernardo O'Higgins,Cachapoal,Graneros,11246.62643137778
+06,061,06107,Región del Libertador General Bernardo O'Higgins,Cachapoal,Las Cabras,75099.27048412674
+06,061,06108,Región del Libertador General Bernardo O'Higgins,Cachapoal,Machalí,259428.82903942475
+06,061,06109,Región del Libertador General Bernardo O'Higgins,Cachapoal,Malloa,22061.036074379277
+06,061,06110,Región del Libertador General Bernardo O'Higgins,Cachapoal,Mostazal,52588.727365019506
+06,061,06111,Región del Libertador General Bernardo O'Higgins,Cachapoal,Olivar,4422.833309848252
+06,061,06112,Región del Libertador General Bernardo O'Higgins,Cachapoal,Peumo,15516.859949724332
+06,061,06113,Región del Libertador General Bernardo O'Higgins,Cachapoal,Pichidegua,31940.041441892387
+06,061,06114,Región del Libertador General Bernardo O'Higgins,Cachapoal,Quinta de Tilcoco,8674.934056304955
+06,061,06115,Región del Libertador General Bernardo O'Higgins,Cachapoal,Rengo,58526.14719755643
+06,061,06116,Región del Libertador General Bernardo O'Higgins,Cachapoal,Requínoa,67725.50612240756
+06,061,06117,Región del Libertador General Bernardo O'Higgins,Cachapoal,San Vicente,48470.28583945167
+06,062,06201,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,Pichilemu,71475.6446022925
+06,062,06202,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,La Estrella,43072.31394631834
+06,062,06203,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,Litueche,61941.95809835769
+06,062,06204,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,Marchihue,65758.47498860703
+06,062,06205,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,Navidad,30110.321585118312
+06,062,06206,Región del Libertador General Bernardo O'Higgins,Cardenal Caro,Paredones,57250.21652735447
+06,063,06301,Región del Libertador General Bernardo O'Higgins,Colchagua,San Fernando,232213.06531718434
+06,063,06302,Región del Libertador General Bernardo O'Higgins,Colchagua,Chépica,47719.91023097547
+06,063,06303,Región del Libertador General Bernardo O'Higgins,Colchagua,Chimbarongo,50876.200443040245
+06,063,06304,Región del Libertador General Bernardo O'Higgins,Colchagua,Lolol,59668.774610359695
+06,063,06305,Región del Libertador General Bernardo O'Higgins,Colchagua,Nancagua,15166.018590867883
+06,063,06306,Región del Libertador General Bernardo O'Higgins,Colchagua,Palmilla,23558.568645036106
+06,063,06307,Región del Libertador General Bernardo O'Higgins,Colchagua,Peralillo,28296.649415625467
+06,063,06308,Región del Libertador General Bernardo O'Higgins,Colchagua,Placilla,14427.477471904722
+06,063,06309,Región del Libertador General Bernardo O'Higgins,Colchagua,Pumanque,44105.34597412433
+06,063,06310,Región del Libertador General Bernardo O'Higgins,Colchagua,Santa Cruz,39327.35341610495
+07,071,07101,Región del Maule,Talca,Talca,23191.512475760705
+07,071,07102,Región del Maule,Talca,Constitución,133865.55528802835
+07,071,07103,Región del Maule,Talca,Curepto,107005.82553430411
+07,071,07104,Región del Maule,Talca,Empedrado,56511.19973562917
+07,071,07105,Región del Maule,Talca,Maule,24288.49382396965
+07,071,07106,Región del Maule,Talca,Pelarco,33087.4535313775
+07,071,07107,Región del Maule,Talca,Pencahue,95513.36675286095
+07,071,07108,Región del Maule,Talca,Río Claro,43348.60664057064
+07,071,07109,Región del Maule,Talca,San Clemente,450089.03912682657
+07,071,07110,Región del Maule,Talca,San Rafael,26288.060855350337
+07,072,07201,Región del Maule,Cauquenes,Cauquenes,212454.21369592595
+07,072,07202,Región del Maule,Cauquenes,Chanco,52776.20783039577
+07,072,07203,Región del Maule,Cauquenes,Pelluhue,36936.39890608039
+07,073,07301,Región del Maule,Curicó,Curicó,133483.27866158463
+07,073,07302,Región del Maule,Curicó,Hualañé,62866.86335626515
+07,073,07303,Región del Maule,Curicó,Licantén,27274.466992524784
+07,073,07304,Región del Maule,Curicó,Molina,151736.14834076265
+07,073,07305,Región del Maule,Curicó,Rauco,30660.530332016908
+07,073,07306,Región del Maule,Curicó,Romeral,160426.04900180522
+07,073,07307,Región del Maule,Curicó,Sagrada Familia,55415.58084627405
+07,073,07308,Región del Maule,Curicó,Teno,61843.91421534353
+07,073,07309,Región del Maule,Curicó,Vichuquén,45150.545663243516
+07,074,07401,Región del Maule,Linares,Linares,146618.12348299735
+07,074,07402,Región del Maule,Linares,Colbún,292681.57717758155
+07,074,07403,Región del Maule,Linares,Longaví,145278.8490021447
+07,074,07404,Región del Maule,Linares,Parral,163795.93051906026
+07,074,07405,Región del Maule,Linares,Retiro,82660.93939461393
+07,074,07406,Región del Maule,Linares,San Javier,131135.93580022777
+07,074,07407,Región del Maule,Linares,Villa Alegre,18859.463181909265
+07,074,07408,Región del Maule,Linares,Yerbas Buenas,25885.110084572767
+08,081,08101,Región del Biobío,Concepción,Concepción,22019.084452727762
+08,081,08102,Región del Biobío,Concepción,Coronel,28130.07187742551
+08,081,08103,Región del Biobío,Concepción,Chiguayante,7139.907266852817
+08,081,08104,Región del Biobío,Concepción,Florida,60575.33800195383
+08,081,08105,Región del Biobío,Concepción,Hualqui,53580.338564044054
+08,081,08106,Región del Biobío,Concepción,Lota,11470.529770444286
+08,081,08107,Región del Biobío,Concepción,Penco,10837.1210803174
+08,081,08108,Región del Biobío,Concepción,San Pedro de la Paz,11286.854266134416
+08,081,08109,Región del Biobío,Concepción,Santa Juana,77742.5331969486
+08,081,08110,Región del Biobío,Concepción,Talcahuano,9255.946834633189
+08,081,08111,Región del Biobío,Concepción,Tomé,49426.43999063125
+08,081,08112,Región del Biobío,Concepción,Hualpén,5378.0725535131405
+08,082,08201,Región del Biobío,Arauco,Lebu,56457.89265727631
+08,082,08202,Región del Biobío,Arauco,Arauco,95990.38249711522
+08,082,08203,Región del Biobío,Arauco,Cañete,108884.96856422846
+08,082,08204,Región del Biobío,Arauco,Contulmo,63907.24591498036
+08,082,08205,Región del Biobío,Arauco,Curanilahue,100296.2133613057
+08,082,08206,Región del Biobío,Arauco,Los Alamos,60054.30509929768
+08,082,08207,Región del Biobío,Arauco,Tirúa,62673.40020086565
+08,083,08301,Región del Biobío,Biobío,Los Angeles,174800.5346028713
+08,083,08302,Región del Biobío,Biobío,Antuco,195737.25092801297
+08,083,08303,Región del Biobío,Biobío,Cabrero,65667.29210763666
+08,083,08304,Región del Biobío,Biobío,Laja,34506.14420753299
+08,083,08305,Región del Biobío,Biobío,Mulchén,192066.78349374072
+08,083,08306,Región del Biobío,Biobío,Nacimiento,90441.83390011084
+08,083,08307,Región del Biobío,Biobío,Negrete,15528.08886762173
+08,083,08308,Región del Biobío,Biobío,Quilaco,112397.22659781223
+08,083,08309,Región del Biobío,Biobío,Quilleco,111780.04861455617
+08,083,08310,Región del Biobío,Biobío,San Rosendo,9443.421346609486
+08,083,08311,Región del Biobío,Biobío,Santa Bárbara,125093.9196658965
+08,083,08312,Región del Biobío,Biobío,Tucapel,91366.70800758513
+08,083,08313,Región del Biobío,Biobío,Yumbel,72687.62520894148
+08,083,08314,Región del Biobío,Biobío,Alto Biobío,212449.1715017355
+09,091,09101,Región de La Araucanía,Cautín,Temuco,46678.45211207955
+09,091,09102,Región de La Araucanía,Cautín,Carahue,133713.18422416697
+09,091,09103,Región de La Araucanía,Cautín,Cunco,188871.13200300082
+09,091,09104,Región de La Araucanía,Cautín,Curarrehue,116559.29752015293
+09,091,09105,Región de La Araucanía,Cautín,Freire,86983.16667166234
+09,091,09106,Región de La Araucanía,Cautín,Galvarino,56779.41288003611
+09,091,09107,Región de La Araucanía,Cautín,Gorbea,69029.05696395665
+09,091,09108,Región de La Araucanía,Cautín,Lautaro,90576.33609575492
+09,091,09109,Región de La Araucanía,Cautín,Loncoche,97100.96626180572
+09,091,09110,Región de La Araucanía,Cautín,Melipeuco,110674.52753356154
+09,091,09111,Región de La Araucanía,Cautín,Nueva Imperial,73075.62646303012
+09,091,09112,Región de La Araucanía,Cautín,Padre las Casas,46368.19413448382
+09,091,09113,Región de La Araucanía,Cautín,Perquenco,33088.79374566385
+09,091,09114,Región de La Araucanía,Cautín,Pitrufquén,58312.98587007776
+09,091,09115,Región de La Araucanía,Cautín,Pucón,124727.43114490915
+09,091,09116,Región de La Araucanía,Cautín,Saavedra,39845.08858661273
+09,091,09117,Región de La Araucanía,Cautín,Teodoro Schmidt,65626.34025529228
+09,091,09118,Región de La Araucanía,Cautín,Toltén,85189.1078472987
+09,091,09119,Región de La Araucanía,Cautín,Vilcún,141540.69523975885
+09,091,09120,Región de La Araucanía,Cautín,Villarrica,129181.81137745311
+09,091,09121,Región de La Araucanía,Cautín,Cholchol,42713.14973351225
+09,092,09201,Región de La Araucanía,Malleco,Angol,119715.5744718813
+09,092,09202,Región de La Araucanía,Malleco,Collipulli,130571.42234571028
+09,092,09203,Región de La Araucanía,Malleco,Curacautín,165758.8322923743
+09,092,09204,Región de La Araucanía,Malleco,Ercilla,49864.75766386463
+09,092,09205,Región de La Araucanía,Malleco,Lonquimay,392807.42325318966
+09,092,09206,Región de La Araucanía,Malleco,Los Sauces,84797.22899630571
+09,092,09207,Región de La Araucanía,Malleco,Lumaco,111006.30564390877
+09,092,09208,Región de La Araucanía,Malleco,Purén,46399.20250239795
+09,092,09209,Región de La Araucanía,Malleco,Renaico,26539.962471765324
+09,092,09210,Región de La Araucanía,Malleco,Traiguén,89685.46130978348
+09,092,09211,Región de La Araucanía,Malleco,Victoria,126177.68571800464
+10,101,10101,Región de Los Lagos,Llanquihue,Puerto Montt,167027.2094533309
+10,101,10102,Región de Los Lagos,Llanquihue,Calbuco,58752.51841085167
+10,101,10103,Región de Los Lagos,Llanquihue,Cochamó,397815.78337199194
+10,101,10104,Región de Los Lagos,Llanquihue,Fresia,127620.0420844928
+10,101,10105,Región de Los Lagos,Llanquihue,Frutillar,82838.43320841585
+10,101,10106,Región de Los Lagos,Llanquihue,Los Muermos,123017.60813676415
+10,101,10107,Región de Los Lagos,Llanquihue,Llanquihue,43310.05558204962
+10,101,10108,Región de Los Lagos,Llanquihue,Maullín,82323.82703739862
+10,101,10109,Región de Los Lagos,Llanquihue,Puerto Varas,402728.3063162024
+10,102,10201,Región de Los Lagos,Chiloé,Castro,47162.80641865153
+10,102,10202,Región de Los Lagos,Chiloé,Ancud,175552.56258858473
+10,102,10203,Región de Los Lagos,Chiloé,Chonchi,136208.49253323246
+10,102,10204,Región de Los Lagos,Chiloé,Curaco de Vélez,7988.755552148797
+10,102,10205,Región de Los Lagos,Chiloé,Dalcahue,122991.61542458768
+10,102,10206,Región de Los Lagos,Chiloé,Puqueldón,9662.529864854709
+10,102,10207,Región de Los Lagos,Chiloé,Queilén,7934.238311093569
+10,102,10207,Región de Los Lagos,Chiloé,Queilén,95.62680269894095
+10,102,10207,Región de Los Lagos,Chiloé,Queilén,25081.17354704343
+10,102,10208,Región de Los Lagos,Chiloé,Quellón,336239.90909212024
+10,102,10209,Región de Los Lagos,Chiloé,Quemchi,43846.2205920023
+10,102,10210,Región de Los Lagos,Chiloé,Quinchao,15878.198483552018
+10,103,10301,Región de Los Lagos,Osorno,Osorno,95471.34880635625
+10,103,10302,Región de Los Lagos,Osorno,Puerto Octay,179339.85883648545
+10,103,10303,Región de Los Lagos,Osorno,Purranque,145212.263779855
+10,103,10304,Región de Los Lagos,Osorno,Puyehue,163503.22555246713
+10,103,10305,Región de Los Lagos,Osorno,Río Negro,128147.84945649724
+10,103,10306,Región de Los Lagos,Osorno,San Juan de La Costa,150666.11150795926
+10,103,10307,Región de Los Lagos,Osorno,San Pablo,63006.02780594578
+10,104,10401,Región de Los Lagos,Palena,Chaitén,825414.40149034
+10,104,10402,Región de Los Lagos,Palena,Futaleufú,123555.05630221305
+10,104,10403,Región de Los Lagos,Palena,Hualaihué,283172.5292601416
+10,104,10404,Región de Los Lagos,Palena,Palena,265506.0399123302
+11,111,11101,Región del General Carlos Ibañez del Campo,Coihaique,Coihaique,727696.4115171633
+11,111,11102,Región del General Carlos Ibañez del Campo,Coihaique,Lago Verde,543522.9775706751
+11,112,11201,Región del General Carlos Ibañez del Campo,Aisén,Aisén,2989161.1862239884
+11,112,11202,Región del General Carlos Ibañez del Campo,Aisén,Cisnes,1542123.5406857808
+11,112,11203,Región del General Carlos Ibañez del Campo,Aisén,Guaitecas,63173.850761493864
+11,113,11301,Región del General Carlos Ibañez del Campo,Capitán Prat,Cochrane,863011.1056127277
+11,113,11302,Región del General Carlos Ibañez del Campo,Capitán Prat,O'Higgins,778559.6620500258
+11,113,11303,Región del General Carlos Ibañez del Campo,Capitán Prat,Tortel,1999111.9677483772
+11,114,11401,Región del General Carlos Ibañez del Campo,General Carrera,Chile Chico,573701.5326164679
+11,114,11402,Región del General Carlos Ibañez del Campo,General Carrera,Río Ibáñez,602095.367845342
+12,121,12101,Región de Magallanes y de la Antártica Chilena,Magallanes,Punta Arenas,1776677.117782402
+12,121,12102,Región de Magallanes y de la Antártica Chilena,Magallanes,Laguna Blanca,356808.33752095234
+12,121,12103,Región de Magallanes y de la Antártica Chilena,Magallanes,Río Verde,914803.3856060761
+12,121,12104,Región de Magallanes y de la Antártica Chilena,Magallanes,San Gregorio,671063.6423784373
+12,122,12201,Región de Magallanes y de la Antártica Chilena,Antártica Chilena,Cabo de Hornos,1572996.6307531137
+12,123,12301,Región de Magallanes y de la Antártica Chilena,Tierra del Fuego,Porvenir,746267.6962437164
+12,123,12302,Región de Magallanes y de la Antártica Chilena,Tierra del Fuego,Primavera,394941.9852184549
+12,123,12303,Región de Magallanes y de la Antártica Chilena,Tierra del Fuego,Timaukel,1102007.1957472546
+12,124,12401,Región de Magallanes y de la Antártica Chilena,Ultima Esperanza,Natales,4896528.76336798
+12,124,12402,Región de Magallanes y de la Antártica Chilena,Ultima Esperanza,Torres del Paine,621555.2510362573
+13,131,13101,Región Metropolitana de Santiago,Santiago,Santiago,2318.4224156685555
+13,131,13102,Región Metropolitana de Santiago,Santiago,Cerrillos,1682.0678631478966
+13,131,13103,Región Metropolitana de Santiago,Santiago,Cerro Navia,1105.3738657491915
+13,131,13104,Región Metropolitana de Santiago,Santiago,Conchalí,1094.1066909197793
+13,131,13105,Región Metropolitana de Santiago,Santiago,El Bosque,1425.4736840078995
+13,131,13106,Región Metropolitana de Santiago,Santiago,Estación Central,1437.6403485884393
+13,131,13107,Región Metropolitana de Santiago,Santiago,Huechuraba,4498.712322891939
+13,131,13108,Región Metropolitana de Santiago,Santiago,Independencia,735.4023116168253
+13,131,13109,Región Metropolitana de Santiago,Santiago,La Cisterna,1001.0007702632151
+13,131,13110,Región Metropolitana de Santiago,Santiago,La Florida,7105.781143606004
+13,131,13111,Región Metropolitana de Santiago,Santiago,La Granja,1005.3148891358449
+13,131,13112,Región Metropolitana de Santiago,Santiago,La Pintana,3047.500390669122
+13,131,13113,Región Metropolitana de Santiago,Santiago,La Reina,2339.232880929872
+13,131,13114,Región Metropolitana de Santiago,Santiago,Las Condes,9909.21438282959
+13,131,13115,Región Metropolitana de Santiago,Santiago,Lo Barnechea,102402.22778958202
+13,131,13116,Región Metropolitana de Santiago,Santiago,Lo Espejo,825.5010784210673
+13,131,13117,Región Metropolitana de Santiago,Santiago,Lo Prado,654.3897230882623
+13,131,13118,Región Metropolitana de Santiago,Santiago,Macul,1281.2168955994896
+13,131,13119,Región Metropolitana de Santiago,Santiago,Maipú,13681.044519245232
+13,131,13120,Región Metropolitana de Santiago,Santiago,Ñuñoa,1689.6906644763399
+13,131,13121,Región Metropolitana de Santiago,Santiago,Pedro Aguirre Cerda,873.1291677614154
+13,131,13122,Región Metropolitana de Santiago,Santiago,Peñalolén,5390.3934025715525
+13,131,13123,Región Metropolitana de Santiago,Santiago,Providencia,1444.7747364570187
+13,131,13124,Región Metropolitana de Santiago,Santiago,Pudahuel,19858.052807764034
+13,131,13125,Región Metropolitana de Santiago,Santiago,Quilicura,5732.70252740565
+13,131,13126,Región Metropolitana de Santiago,Santiago,Quinta Normal,1180.6422653889886
+13,131,13127,Región Metropolitana de Santiago,Santiago,Recoleta,1561.448503902681
+13,131,13128,Región Metropolitana de Santiago,Santiago,Renca,2368.4829440407893
+13,131,13129,Región Metropolitana de Santiago,Santiago,San Joaquín,993.9282951308701
+13,131,13130,Región Metropolitana de Santiago,Santiago,San Miguel,963.0457859346255
+13,131,13131,Región Metropolitana de Santiago,Santiago,San Ramón,631.5779609521188
+13,131,13132,Región Metropolitana de Santiago,Santiago,Vitacura,2859.867321758019
+13,132,13201,Región Metropolitana de Santiago,Cordillera,Puente Alto,8841.13634859459
+13,132,13202,Región Metropolitana de Santiago,Cordillera,Pirque,44484.64378158509
+13,132,13203,Región Metropolitana de Santiago,Cordillera,San José de Maipo,498621.1972502082
+13,133,13301,Región Metropolitana de Santiago,Chacabuco,Colina,97108.97858073786
+13,133,13302,Región Metropolitana de Santiago,Chacabuco,Lampa,44953.75463142924
+13,133,13303,Región Metropolitana de Santiago,Chacabuco,Tiltil,65467.960227520634
+13,134,13401,Región Metropolitana de Santiago,Maipo,San Bernardo,15387.263767772782
+13,134,13402,Región Metropolitana de Santiago,Maipo,Buin,21706.290957968577
+13,134,13403,Región Metropolitana de Santiago,Maipo,Calera de Tango,7311.800738855403
+13,134,13404,Región Metropolitana de Santiago,Maipo,Paine,67762.05867977865
+13,135,13501,Región Metropolitana de Santiago,Melipilla,Melipilla,135235.24851104675
+13,135,13502,Región Metropolitana de Santiago,Melipilla,Alhué,84432.70898215639
+13,135,13503,Región Metropolitana de Santiago,Melipilla,Curacaví,69401.37487420846
+13,135,13504,Región Metropolitana de Santiago,Melipilla,María Pinto,39420.48064384367
+13,135,13505,Región Metropolitana de Santiago,Melipilla,San Pedro,78653.62752542418
+13,136,13601,Región Metropolitana de Santiago,Talagante,Talagante,12522.983774023423
+13,136,13602,Región Metropolitana de Santiago,Talagante,El Monte,11596.444915631044
+13,136,13603,Región Metropolitana de Santiago,Talagante,Isla de Maipo,18961.788620090185
+13,136,13604,Región Metropolitana de Santiago,Talagante,Padre Hurtado,8068.692928562555
+13,136,13605,Región Metropolitana de Santiago,Talagante,Peñaflor,6949.070640694999
+14,141,14101,Región de Los Ríos,Valdivia,Valdivia,101852.06717472317
+14,141,14102,Región de Los Ríos,Valdivia,Corral,72965.03692344534
+14,141,14103,Región de Los Ríos,Valdivia,Lanco,53291.52990310887
+14,141,14104,Región de Los Ríos,Valdivia,Los Lagos,178831.99330038368
+14,141,14105,Región de Los Ríos,Valdivia,Máfil,57913.15216518821
+14,141,14106,Región de Los Ríos,Valdivia,Mariquina,131932.92821301124
+14,141,14107,Región de Los Ríos,Valdivia,Paillaco,90153.92499729797
+14,141,14108,Región de Los Ríos,Valdivia,Panguipulli,329469.8697891115
+14,142,14201,Región de Los Ríos,Ranco,La Unión,213171.11737419857
+14,142,14202,Región de Los Ríos,Ranco,Futrono,208936.71687804314
+14,142,14203,Región de Los Ríos,Ranco,Lago Ranco,176339.01827522574
+14,142,14204,Región de Los Ríos,Ranco,Río Bueno,217166.52563697338
+15,151,15101,Región de Arica y Parinacota,Arica,Arica,480219.4207150972
+15,151,15102,Región de Arica y Parinacota,Arica,Camarones,392467.19813328754
+15,152,15201,Región de Arica y Parinacota,Parinacota,Putre,589007.7085042428
+15,152,15202,Región de Arica y Parinacota,Parinacota,General Lagos,225881.08090719246
+16,161,16101,Región de Ñuble,Diguillín,Chillán,47718.045137020024
+16,161,16102,Región de Ñuble,Diguillín,Bulnes,42612.344499552404
+16,161,16103,Región de Ñuble,Diguillín,Chillán Viejo,26240.931395956577
+16,161,16104,Región de Ñuble,Diguillín,El Carmen,66551.06200029381
+16,161,16105,Región de Ñuble,Diguillín,Pemuco,56275.81701178603
+16,161,16106,Región de Ñuble,Diguillín,Pinto,110223.35647103624
+16,161,16107,Región de Ñuble,Diguillín,Quillón,40635.12323681277
+16,161,16108,Región de Ñuble,Diguillín,San Ignacio,36291.507028061635
+16,161,16109,Región de Ñuble,Diguillín,Yungay,82399.38560202888
+16,162,16201,Región de Ñuble,Itata,Quirihue,58977.92278194306
+16,162,16202,Región de Ñuble,Itata,Cobquecura,56913.65866625756
+16,162,16203,Región de Ñuble,Itata,Coelemu,34225.531540451506
+16,162,16204,Región de Ñuble,Itata,Ninhue,40297.74937683176
+16,162,16205,Región de Ñuble,Itata,Portezuelo,28910.28591546366
+16,162,16206,Región de Ñuble,Itata,Ránquil,24733.84319527542
+16,162,16207,Región de Ñuble,Itata,Treguaco,31291.45843550971
+16,163,16301,Región de Ñuble,Punilla,San Carlos,87694.39835573082
+16,163,16302,Región de Ñuble,Punilla,Coihueco,177079.25666081876
+16,163,16303,Región de Ñuble,Punilla,Ñiquén,49190.96348500049
+16,163,16304,Región de Ñuble,Punilla,San Fabián,154105.4838539712
+16,163,16305,Región de Ñuble,Punilla,San Nicolás,56552.69577061571

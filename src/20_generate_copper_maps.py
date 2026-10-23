@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 import re
 import unicodedata
 import pandas as pd
@@ -169,13 +169,6 @@ for code in sorted(gdf["codreg"].unique()):
 
         cb.ax.tick_params(labelsize=8)
 
-        if col == "cobre_pct_oa":
-            ax.text(
-                0.5, -0.115,
-                "Gris: comuna sin superficie OA",
-                transform=ax.transAxes,
-                ha="center", fontsize=8, color="#555555"
-            )
 
     fig.suptitle(
         f"{name} | Distribución comunal del cobre",

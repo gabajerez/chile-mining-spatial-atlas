@@ -1,4 +1,4 @@
-"""Paso 32: concesion residual PROVISIONAL (Kay / ENMC).
+"""Paso 32: concesion residual PROVISIONAL (criterios ENMC).
 
 No constituye la estimacion definitiva del manuscrito: usa candidatas OA,
 no operaciones confirmadas, y no descuenta proyectos COCHILCO sin poligonos.

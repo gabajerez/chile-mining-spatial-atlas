@@ -1,4 +1,4 @@
-"""Audita concesiones constituidas para el atlas ENMC según definición de Kay.
+"""Audita concesiones constituidas para el atlas ENMC según criterios metodológicos del módulo ENMC.
 No asigna minerales, no afirma superficies latentes definitivas.
 """
 from pathlib import Path

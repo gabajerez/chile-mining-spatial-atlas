@@ -1,0 +1,49 @@
+{
+  "paso": 55,
+  "total_ids_declarados_servicio": 117983,
+  "ids_con_geometria_reportados_54b": 117969,
+  "ids_sin_geometria_reportados_54b": 14,
+  "capas": [
+    {
+      "fuente": "MMA_nacional",
+      "total_filas": 117969,
+      "crs": "EPSG:4326",
+      "sin_geometria": 0,
+      "geometrias_vacias": 0,
+      "geometrias_invalidas": 0,
+      "tipos_geom": {
+        "Polygon": 85900,
+        "MultiPolygon": 32069
+      },
+      "campo_id": "OBJECTID",
+      "ids_nulos": 0,
+      "ids_duplicados": 0,
+      "bounds_epsg4326": [
+        -109.4407615747515,
+        -55.90557349168543,
+        -66.46453084713006,
+        -17.55001958151676
+      ],
+      "regiones_con_presencia": 16
+    },
+    {
+      "fuente": "Inventario_anterior",
+      "total_filas": 4801,
+      "crs": "EPSG:6933",
+      "sin_geometria": 0,
+      "geometrias_vacias": 0,
+      "geometrias_invalidas": 0,
+      "tipos_geom": {
+        "MultiPolygon": 4801
+      },
+      "bounds_epsg4326": [
+        -71.8159323300389,
+        -34.25566046419221,
+        -69.79325321970069,
+        -32.928573162872695
+      ],
+      "regiones_con_presencia": 3
+    }
+  ],
+  "nota": "Conteos de interseccion regional no son exclusivos; geometria compartida puede contarse en varias regiones. Presencia en regiones no acredita completitud tematica."
+}

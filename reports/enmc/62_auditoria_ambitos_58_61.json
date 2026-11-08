@@ -1,0 +1,13 @@
+{
+  "paso": 62,
+  "fecha_utc": "2026-11-08T01:56:36.200116+00:00",
+  "resultado": "AUDITORIA_DE_MASCARAS_NO_RECALCULA_HUMEDALES",
+  "ambito_nacional_comunal_ha": 75256754.2832255,
+  "norte_centro_solapamiento_ha": 0.0,
+  "norte_centro_dentro_comunas_ha": 34932770.79958494,
+  "humedales_58_ambito_comunal_ha": 5371068.186202532,
+  "concesionados_58_ambito_comunal_ha": 614734.1210574975,
+  "humedales_61_norte_centro_ha": 828482.1542788099,
+  "concesionados_61_norte_centro_ha": 584857.8113065092,
+  "nota": "Si alguna mascara regional tiene area fuera del ambito comunal, los porcentajes 61 requieren homologacion de mascara antes de compararlos rigurosamente con 58. Aun con mascaras iguales, falta control territorial sur."
+}

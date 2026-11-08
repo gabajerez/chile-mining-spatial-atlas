@@ -1,0 +1,27 @@
+{
+  "paso": "63b",
+  "fecha_utc": "2026-11-08T02:03:08.851395+00:00",
+  "estado": "BALANCE_ARITMETICO_COMPATIBLE_REMANENTE_NO_RECALCULADO",
+  "criterio_balance_61": "abs(error_balance_m2) <= max(1, sensible_ha*10000*1e-8)",
+  "tolerancia_balance_csv_ha": 0.02,
+  "registros_61_revisados": 6,
+  "mayor_error_61_m2": 4.454298973083496,
+  "resto_no_cartografiado_ha": {
+    "humedales_ha": 4542586.031923722,
+    "concesionada_ha": 29876.309750988265,
+    "residual_ha": 29858.546064007678,
+    "oa_ha": 17.76368698038641
+  },
+  "fuentes": [
+    "58_overlap_humedales_mma_resumen.csv",
+    "61_control_overlap_cartografico_mma.csv",
+    "62_auditoria_ambitos_58_61.json"
+  ],
+  "advertencias": [
+    "Resto no cartografiado calculado por resta, no interseccion espacial independiente.",
+    "Se preservan sin modificaciones todas las superficies de los pasos 58 y 61.",
+    "La tolerancia geometrica del paso 61 es proporcional a la superficie sensible.",
+    "Las concesiones no tienen atributo de mineral; el residual y la seleccion OA son provisionales.",
+    "Coincidencia concesional no demuestra actividad ni impactos ambientales."
+  ]
+}

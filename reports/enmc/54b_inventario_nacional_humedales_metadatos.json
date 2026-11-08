@@ -1,0 +1,14 @@
+{
+  "fuente": "MMA / SIMBIO - Inventario Nacional de Humedales",
+  "url_servicio": "https://arcgis.mma.gob.cl/server/rest/services/SIMBIO/SIMBIO_HUMEDALES/FeatureServer/0",
+  "fecha_validacion_utc": "2026-11-07T23:00:04.450005+00:00",
+  "ids_servidor": 117983,
+  "geometrias_poligonales_guardadas": 117969,
+  "ids_sin_geometria_utilizable": 14,
+  "geometrias_excluidas_detalle": "reports\\enmc\\54b_geometrias_no_utilizables.csv",
+  "crs_salida": "EPSG:4326",
+  "limites_fuente": "Pendiente verificar distribución regional, categorías y temporalidad",
+  "archivo": "data\\raw\\sensibilidad\\humedales_nacional_mma\\54_inventario_nacional_humedales.gpkg",
+  "nota_formato": "Archivo parcial original usa geometría declarada POLYGON; algunas entidades son MultiPolygon. Normalizar al preparar la capa analítica.",
+  "advertencia": "No sustituir datos en análisis IST/superposición hasta auditoría territorial y geométrica"
+}

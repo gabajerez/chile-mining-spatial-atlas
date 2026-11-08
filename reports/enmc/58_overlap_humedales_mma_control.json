@@ -1,0 +1,28 @@
+{
+  "paso": 58,
+  "utc": "2026-11-08T01:31:55.575064+00:00",
+  "crs_areas": "EPSG:6933",
+  "area_unidad": "ha",
+  "fuente": "data\\processed\\enmc\\sensibilidad\\56_humedales_mma_nacional.gpkg",
+  "concesiones": "data\\processed\\enmc\\35_concesiones_constituidas_ambito.gpkg",
+  "residual": "data\\processed\\enmc\\35_concesion_residual_ambito.gpkg",
+  "ambito": "data\\processed\\comunas_consolidadas.gpkg",
+  "firma_insumos": "6f281676eeae769dd49b1a9b8b94538dff82fcba9dbdf08aaafaa0dc790b66e5",
+  "tile_km": 120.0,
+  "procedimiento": "teselas disjuntas + union por tesela + interseccion espacial exacta",
+  "observacion": "No comparar directamente con paso 40 sin homologar el denominador; capas diferentes y 58 restringe superficie sensible al ambito comunal. Las capas concesionales son provisionales y no tienen atributo mineral.",
+  "control": {
+    "componente": "humedales_mma_nacional",
+    "n_elementos_originales": 117969,
+    "n_comunas_ambito": 343,
+    "n_teselas": 110,
+    "superficie_sensible_unica_ha": 5371068.186202532,
+    "superficie_sensible_concesionada_ha": 614734.1210574975,
+    "porcentaje_sensible_concesionada": 11.445286109691498,
+    "superficie_sensible_residual_provisional_ha": 582505.1761067586,
+    "porcentaje_sensible_residual_provisional": 10.845238896857184,
+    "superficie_sensible_concesionada_coincidente_oa_ha": 32228.944950738824,
+    "estado": "PROVISIONAL_OA_SIN_VALIDAR_COCHILCO_SIN_DESCONTAR",
+    "denominador": "superficie unica del inventario MMA dentro del ambito de 343 comunas"
+  }
+}

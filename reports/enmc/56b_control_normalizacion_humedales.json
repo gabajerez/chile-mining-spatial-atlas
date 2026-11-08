@@ -1,0 +1,20 @@
+{
+  "paso": "56b",
+  "fecha_utc": "2026-11-08T01:00:42.287138+00:00",
+  "estado": "geometria_y_ids_validados_pendiente_revision_tematica",
+  "fuente": "data\\raw\\sensibilidad\\humedales_nacional_mma\\54_inventario_nacional_humedales.gpkg",
+  "destino": "data\\processed\\enmc\\sensibilidad\\56_humedales_mma_nacional.gpkg",
+  "registros_fuente": 117969,
+  "recuperados_de_ejecucion_anterior": 110000,
+  "registros_agregados_56b": 7969,
+  "registros_finales": 117969,
+  "objectid_concordantes": true,
+  "crs": "EPSG:6933",
+  "geometrias_invalidas_disco": 0,
+  "geometrias_vacias_disco": 0,
+  "tipos_no_multipolygon_disco": 0,
+  "reparaciones_56b": 1,
+  "max_variacion_area_reparacion_pct": 2.2337883547133264e-07,
+  "umbral_variacion_area_pct": 0.1,
+  "observaciones": "Se preserva capa 39 y no se recalculan IST ni superposiciones. Revisar cobertura temática y 14 registros sin geometría del paso 54b."
+}

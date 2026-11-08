@@ -1,0 +1,27 @@
+{
+  "paso": 57,
+  "fecha_utc": "2026-11-08T01:11:15.803760+00:00",
+  "estado": "recalculo_diferencial_hu_sujeto_a_validacion_tematico_temporal",
+  "csv_base": "reports\\enmc\\43_ist_enmc.csv",
+  "humedales_mma": "data\\processed\\enmc\\sensibilidad\\56_humedales_mma_nacional.gpkg",
+  "universo": {
+    "OA_ENMC": 292,
+    "COCHILCO_ENMC": 55
+  },
+  "numero_humedales": 117969,
+  "componente_actualizado": "HU",
+  "peso": 0.12,
+  "umbrales_km": [
+    1,
+    5,
+    10,
+    25
+  ],
+  "metodo_distancia": "AEQD local por unidad; preseleccion EPSG:6933 buffer 200km",
+  "formula": "IST_57=IST_43+12*(S_HU_MMA-S_HU_43)",
+  "n_alteraciones_hu": 266,
+  "n_alteraciones_ist": 266,
+  "delta_ist_min": 0.0,
+  "delta_ist_max": 12.0,
+  "nota": "Los indicadores NO prueban impacto ni condicion operativa; otras capas no auditadas tematicamente. Las areas humedales y los cruces concesionales NO se recalculan en este script."
+}

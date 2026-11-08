@@ -1,0 +1,34 @@
+{
+  "paso": 59,
+  "utc": "2026-11-08T01:37:25.173252+00:00",
+  "fuentes": [
+    "reports/enmc/58_overlap_humedales_mma_resumen.csv",
+    "reports/enmc/58_overlap_humedales_mma_teselas.csv",
+    "reports/enmc/58_overlap_humedales_mma_control.json"
+  ],
+  "n_teselas": 110,
+  "balance_ha": {
+    "humedales_total": 5371068.186202532,
+    "sin_coincidencia_concesional": 4756334.065145034,
+    "residual_provisional": 582505.1761067586,
+    "concesion_coincidente_oa": 32228.944950738824,
+    "concesion_total": 614734.1210574975
+  },
+  "porcentaje_ha": {
+    "sin_concesion": 88.5547138903085,
+    "residual_provisional": 10.845238896857184,
+    "coincidente_oa": 0.6000472128343138,
+    "concesion_total": 11.445286109691498
+  },
+  "checks": {
+    "teselas_sin_duplicados": true,
+    "sumas_csv_json": true,
+    "balance_excluyente": true,
+    "restricciones_por_tesela": true
+  },
+  "cautela": "Coincidencia espacial de humedales con derechos mineros constituidos, NO prueba de actividad, impacto o mineral. Residual provisional depende de seleccion OA y aun no descuenta nuevos poligonos COCHILCO. Fuente MMA y area comunal difieren del paso 40.",
+  "figuras": [
+    "outputs\\figures\\enmc\\59_balance_humedales_mma_concesiones.png",
+    "outputs\\figures\\enmc\\59_balance_humedales_mma_concesiones.svg"
+  ]
+}

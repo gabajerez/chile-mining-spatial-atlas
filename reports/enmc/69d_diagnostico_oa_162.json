@@ -1,0 +1,43 @@
+{
+  "fuente": "OA_ENMC",
+  "OBJECTID": "162",
+  "criterio_punto": "representative_point() del poligono OA en EPSG:6933",
+  "lat": -27.055544999989948,
+  "lon": -70.83324819228075,
+  "area_original_ha": 1.1849799477336864,
+  "punto_intersecta_alguna_region": false,
+  "poligono_original_intersecta_alguna_region": true,
+  "regiones_mas_cercanas": [
+    {
+      "region": "Región de Atacama",
+      "punto_intersecta": false,
+      "poligono_oa_intersecta": true,
+      "distancia_punto_m": 2.9469360736236347,
+      "distancia_poligono_m": 0.0
+    },
+    {
+      "region": "Región de Antofagasta",
+      "punto_intersecta": false,
+      "poligono_oa_intersecta": false,
+      "distancia_punto_m": 111470.2172838224,
+      "distancia_poligono_m": 111389.55794519822
+    },
+    {
+      "region": "Región de Coquimbo",
+      "punto_intersecta": false,
+      "poligono_oa_intersecta": false,
+      "distancia_punto_m": 220628.37883269502,
+      "distancia_poligono_m": 220547.73291812514
+    }
+  ],
+  "atributos_originales_relevantes": {
+    "NOMBRE": "PUERTO CALDERA",
+    "REGION": "REGIÓN DE ATACAMA",
+    "COMUNA": "CALDERA",
+    "TIPO": "Puerto / terminal",
+    "N_COMP": "9",
+    "estado_oa_provisional": "CANDIDATA_OPERACION_POR_TIPO"
+  },
+  "comunas_que_contienen_punto": [],
+  "advertencia": "Diagnostico, no reasigna la region ni modifica el IST."
+}

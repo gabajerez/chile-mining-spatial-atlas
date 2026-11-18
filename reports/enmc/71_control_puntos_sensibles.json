@@ -1,0 +1,41 @@
+{
+  "generado_utc": "2026-11-18T12:08:49.857282+00:00",
+  "fuentes": {
+    "CI": "39_comunidades_indigenas.gpkg",
+    "AT": "39_atractivos_turisticos.gpkg"
+  },
+  "resumen": [
+    {
+      "componente": "CI",
+      "total_fuente": 2903,
+      "tipos_geometricos": {
+        "Point": 2903
+      },
+      "sin_geometria": 0,
+      "no_puntuales": 0,
+      "fuera_ambito": 0,
+      "puntos_en_ambito": 2903,
+      "coincidentes_concesion": 110,
+      "sin_region": 0,
+      "multiregion": 0,
+      "porcentaje_registros_en_concesion": 3.7891836031691355
+    },
+    {
+      "componente": "AT",
+      "total_fuente": 4637,
+      "tipos_geometricos": {
+        "Point": 4637
+      },
+      "sin_geometria": 0,
+      "no_puntuales": 0,
+      "fuera_ambito": 0,
+      "puntos_en_ambito": 4637,
+      "coincidentes_concesion": 533,
+      "sin_region": 0,
+      "multiregion": 0,
+      "porcentaje_registros_en_concesion": 11.494500754798361
+    }
+  ],
+  "metodologia": "Registros puntuales originales en ambito de 343 comunas; coincidencia del punto con union de concesiones, sin buffers. MultiPoint se cuenta por registro, con coincidencia si algun punto esta en concesion. No son superficies de afectacion ni impactos.",
+  "advertencia": "No comparar porcentaje de registros puntuales con porcentajes de superficie del paso 70. La calidad y representatividad geografica de cada registro no ha sido validada individualmente."
+}

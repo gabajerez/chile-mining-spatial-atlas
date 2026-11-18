@@ -1,0 +1,56 @@
+﻿mineral,id_fuente,proyecto,IST_100,A_AP,A_SB,A_GL,A_HU,A_AI,A_CI,A_AD,A_PO,A_TU
+cobre,1,Desarrollo Minera Centinela - 2° Concentradora Fase I y II,12.275,0.0,0.0,0.0,3.0,4.25,3.275,0.0,1.75,0.0
+hierro,2,Modificación Proyecto Mina Los Colorados: Ajustes y Continuidad Operacional,42.325,4.125,9.9,0.0,3.0,17.0,6.55,0.0,1.75,0.0
+cobre,3,MV Optimized (MV-O),17.2,0.0,7.425,0.0,3.0,0.0,3.275,0.0,3.5,0.0
+cobre,4,Collahuasi 210 KTPD - Proyecto C20+,22.95,0.0,2.475,3.325,9.0,0.0,3.275,4.875,0.0,0.0
+cobre,5,Proyecto Minero de Cobre Óxidos Marimaca,1.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.75,0.0
+oro,6,Lobo-Marte,34.6,12.375,9.9,3.325,9.0,0.0,0.0,0.0,0.0,0.0
+cobre,7,Santo Domingo,25.45,0.0,4.95,0.0,6.0,0.0,9.825,0.0,3.5,1.175
+cobre,8,Sierra Norte,26.475,0.0,7.425,0.0,9.0,0.0,6.55,0.0,3.5,0.0
+hierro,9,Dominga,22.375,4.125,2.475,0.0,9.0,0.0,3.275,0.0,3.5,0.0
+cobre,10,Proyecto Minero Arqueros Cobre,11.3,0.0,0.0,0.0,3.0,0.0,6.55,0.0,1.75,0.0
+cobre,11,Desarrollo Proyecto Vizcachitas,27.725,4.125,4.95,6.65,12.0,0.0,0.0,0.0,0.0,0.0
+cobre,12,Chuquicamata Subterránea (1),43.45,0.0,4.95,0.0,9.0,8.5,9.825,6.5,3.5,1.175
+cobre,13,Extensión vida Concentrado Los Colorados,6.65,0.0,2.475,0.0,3.0,0.0,0.0,0.0,0.0,1.175
+cobre,14,Plan de Desarrollo Michilla,16.05,4.125,0.0,0.0,3.0,4.25,0.0,0.0,3.5,1.175
+oro,15,Continuidad Operacional Mina Barreal Seco,5.75,0.0,2.475,0.0,0.0,0.0,3.275,0.0,0.0,0.0
+cobre,16,Adecuación Operacional Spence,11.025,0.0,0.0,0.0,0.0,4.25,3.275,0.0,3.5,0.0
+cobre,17,Extensión de vida útil con transición hídrica,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.625,0.0,1.175
+cobre,18,Optimización y Continuidad Operacional Minera Candelaria,53.875,4.125,9.9,0.0,6.0,17.0,9.825,0.0,3.5,3.525
+oro,19,Extensión Vida Útil Faenas La Coipa y Purén,25.725,0.0,9.9,0.0,6.0,0.0,9.825,0.0,0.0,0.0
+cobre,20,Rajo Inca,37.05,0.0,2.475,0.0,9.0,8.5,6.55,0.0,7.0,3.525
+cobre,21,Proyecto de Adaptación Operacional (PAO),28.8,12.375,2.475,0.0,6.0,0.0,3.275,0.0,3.5,1.175
+cobre,22,Proyecto Modificación instalaciones de Los Bronces:  Remoción Tranque Pérez Caldera y adaptación del Recurso Hídrico,68.625,12.375,9.9,9.975,12.0,17.0,3.275,0.0,1.75,2.35
+cobre,23,Reapertura Cerro Colorado,35.925,0.0,0.0,0.0,12.0,0.0,9.825,6.5,5.25,2.35
+cobre,24,Continuidad Operacional y Modificación del Proyecto Minero Sagasca,20.8,0.0,0.0,0.0,6.0,0.0,6.55,6.5,1.75,0.0
+cobre,25,Modificación Pila de Lixiviación Sulfolix,27.225,0.0,2.475,0.0,3.0,4.25,9.825,6.5,0.0,1.175
+cobre,26,Cuarta Línea de Molienda,13.175,0.0,0.0,0.0,0.0,8.5,0.0,0.0,3.5,1.175
+oro,27,Ciclón Exploradora,8.475,0.0,2.475,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+cobre,28,Proyecto Minero Tovaku,10.25,0.0,0.0,0.0,0.0,8.5,0.0,0.0,1.75,0.0
+cobre,29,Desarrollo Costa fuego,31.0,0.0,7.425,0.0,6.0,4.25,9.825,0.0,3.5,0.0
+oro,30,Fenix Gold,12.875,4.125,2.475,0.0,3.0,0.0,3.275,0.0,0.0,0.0
+cobre,31,Modernización Fundición HVL - Paipote,58.825,4.125,7.425,0.0,9.0,17.0,13.1,0.0,7.0,1.175
+oro,32,Nueva Esperanza,22.0,0.0,2.475,0.0,12.0,4.25,3.275,0.0,0.0,0.0
+litio,33,Salares Altoandinos,10.175,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,1.175
+litio,34,Producción de Sales Maricunga,23.9,8.25,2.475,0.0,12.0,0.0,0.0,0.0,0.0,1.175
+tierras_raras,35,Proyecto de Desarrollo Minero de Extracción de Arcillas para Producción de Concentrado de Tierras Raras,53.075,16.5,7.425,0.0,9.0,4.25,6.55,0.0,7.0,2.35
+yodo,36,Coya Sur,27.675,0.0,0.0,0.0,6.0,17.0,0.0,0.0,3.5,1.175
+yodo,37,Extensión Vida Útil Proyecto María Elena,33.525,0.0,0.0,0.0,6.0,17.0,0.0,0.0,7.0,3.525
+cobre,38,Súlfuros RT Fase II (3),32.575,0.0,2.475,0.0,3.0,12.75,6.55,4.875,1.75,1.175
+cobre,39,Actualización del Depósito de Relaves e Instalaciones Anexas,13.175,0.0,0.0,0.0,0.0,8.5,0.0,0.0,3.5,1.175
+cobre,40,Proyecto de Explotación y Procesamiento de Minerales La Farola,49.9,8.25,7.425,0.0,6.0,17.0,6.55,0.0,3.5,1.175
+cobre,41,Nueva concentradora: Los Colorados,6.65,0.0,2.475,0.0,3.0,0.0,0.0,0.0,0.0,1.175
+cobre,42,Continuidad Operacional Minera El Abra,4.625,0.0,0.0,0.0,3.0,0.0,0.0,1.625,0.0,0.0
+cobre,43,Desarrollo Mantoverde Fase II,17.2,0.0,7.425,0.0,3.0,0.0,3.275,0.0,3.5,0.0
+cobre,44,Proyecto 4ª Línea: Nueva conentradora en Rosario,19.625,0.0,2.475,0.0,9.0,0.0,3.275,4.875,0.0,0.0
+yodo,45,Tente en el Aire,9.4,4.125,2.475,0.0,0.0,0.0,0.0,1.625,0.0,1.175
+litio,46,Proyecto Salar de Maricunga,18.075,4.125,4.95,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+cobre,47,Proyecto El Espino,23.675,12.375,0.0,0.0,3.0,0.0,6.55,0.0,1.75,0.0
+cobre,48,Laguna Seca expansion,6.65,0.0,2.475,0.0,3.0,0.0,0.0,0.0,0.0,1.175
+cobre,49,Aplicación de ripios de lixiviación de BHP en Escondida,6.65,0.0,2.475,0.0,3.0,0.0,0.0,0.0,0.0,1.175
+cobre,50,Demolición Concentradora Los Colorados,6.65,0.0,2.475,0.0,3.0,0.0,0.0,0.0,0.0,1.175
+cobre,51,Crecimiento Concentradora Spence,15.275,0.0,0.0,0.0,0.0,8.5,3.275,0.0,3.5,0.0
+cobre,52,Extensión de Vida Útil de Minera Los Pelambres (EVU),29.075,0.0,2.475,6.65,12.0,0.0,3.275,0.0,3.5,1.175
+cobre,53,Nuevo Nivel Mina (2),53.6,8.25,7.425,6.65,9.0,17.0,0.0,0.0,1.75,3.525
+cobre,54,Proyecto Los Bronces Integrado,68.625,12.375,9.9,9.975,12.0,17.0,3.275,0.0,1.75,2.35
+cobre,55,"Implementación de las instalaciones para manejo de aguas contactadas y no contactadas, en Depósito de Estériles Donoso Norte",64.125,12.375,9.9,6.65,12.0,17.0,3.275,0.0,1.75,1.175

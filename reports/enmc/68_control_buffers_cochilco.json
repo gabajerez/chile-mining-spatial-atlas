@@ -1,0 +1,14 @@
+{
+  "fecha_utc": "2026-11-18T05:14:16.769408+00:00",
+  "radios_km": [
+    10,
+    25,
+    50,
+    100
+  ],
+  "unidades": 55,
+  "metodo": "buffer métrico local AEQD, área medida EPSG:6933",
+  "scope": "círculos completos, no recortados por área de estudio",
+  "interpretacion": "escenarios de proximidad territorial, nunca huellas verificadas ni derechos concesionales",
+  "nota": "No utilizar los buffers para reemplazar la geometría puntual del IST homologado."
+}

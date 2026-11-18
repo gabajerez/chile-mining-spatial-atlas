@@ -1,0 +1,43 @@
+{
+  "fecha_utc": "2026-11-18T05:40:17.261004+00:00",
+  "n_unidades_ist": 347,
+  "n_fuente": {
+    "OA_ENMC": 292,
+    "COCHILCO_ENMC": 55
+  },
+  "n_regiones_representadas": 13,
+  "n_unidades_con_region": 347,
+  "n_unidades_sin_region": 0,
+  "n_grupos_regionales": 21,
+  "n_sin_region_por_fuente": {},
+  "advertencia_regional": "La unidad OA 162 queda asignada por interseccion de la huella original con Atacama (el punto queda 2.95 m fuera); esta excepcion no modifica el IST.",
+  "n_categorias_minerales": 6,
+  "n_filas_proyecto_mineral": 55,
+  "n_distancias_sin_candidato_200km_por_componente": {
+    "AP": 0,
+    "SB": 0,
+    "GL": 0,
+    "HU": 0,
+    "AI": 17,
+    "CI": 7,
+    "AD": 220,
+    "PO": 0,
+    "TU": 0
+  },
+  "advertencia_distancias": "Distancia no resuelta sin candidato en ventana de 200 km; puntaje igual a cero, no distancia minima verdadera",
+  "criterio_regional": "Interseccion del punto IST con regiones consolidadas, salvo OA 162 asignada mediante interseccion positiva de la huella OA original y atributos administrativos validados",
+  "excepcion_regional_oa_162": {
+    "id_fuente": "162",
+    "fuente": "OA_ENMC",
+    "region_asignada": "Región de Atacama",
+    "comuna_atributo_original": "CALDERA",
+    "criterio": "Huella OA original intersecta una unica region con area positiva; atributos originales concordantes",
+    "distancia_punto_region_m_aprox_epsg6933": 2.9825136654162665,
+    "distancia_local_aeqd_m_paso69e": 2.95,
+    "interseccion_huella_region_m2_epsg6933": 5978.827052210037,
+    "ist_recalculado": false,
+    "documentacion": "reports/enmc/69d_diagnostico_oa_162.json"
+  },
+  "n_unidades_asignadas_por_excepcion": 1,
+  "interpretacion": "Promedios descriptivos; no probar equivalencia de ubicacion o estado operativo OA"
+}

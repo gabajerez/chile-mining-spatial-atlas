@@ -1,0 +1,12 @@
+{
+  "estado": "COMPLETO",
+  "fecha_utc": "2026-11-18T05:14:05.184597+00:00",
+  "n_unidades": 347,
+  "n_esperadas": 347,
+  "criterio_OA": "representative_point interior, no centroide geométrico",
+  "criterio_COCHILCO": "punto de localización registrado",
+  "medicion": "distancia mínima desde punto, AEQD local",
+  "fuente_humedales": "56_humedales_mma_nacional.gpkg",
+  "resto_fuentes": "39_*.gpkg",
+  "nota": "No equivale a superficie de proyecto ni impacto ambiental"
+}

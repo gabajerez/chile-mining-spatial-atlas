@@ -1,0 +1,17 @@
+{
+  "fecha_utc": "2026-11-18T12:37:50.311498+00:00",
+  "estado": "COMPLETO",
+  "combinaciones_calculadas": 24,
+  "combinaciones_objetivo": 24,
+  "n_proyectos_fuente": 55,
+  "n_minerales": 6,
+  "ambito": "343 comunas, unión de geometrías, EPSG:6933",
+  "metodo": "unión de buffers por mineral/radio recortada a las 343 comunas; coincidencia con unión concesional",
+  "limites": [
+    "buffers son escenarios hipotéticos, no huellas de proyectos",
+    "concesiones no tienen mineral; la coincidencia se asocia al entorno de proyectos del mineral, NO a concesiones del mineral",
+    "un mismo proyecto puede aparecer en varios minerales si es multiminérico",
+    "coberturas de diferentes minerales pueden superponerse y no deben sumarse",
+    "radios no fueron justificados por evidencia de alcance de impacto"
+  ]
+}

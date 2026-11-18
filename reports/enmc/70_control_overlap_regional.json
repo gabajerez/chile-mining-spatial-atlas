@@ -1,0 +1,13 @@
+{
+  "estado": "COMPLETO",
+  "timestamp_utc": "2026-11-18T09:59:40.465060+00:00",
+  "pares_esperados": 144,
+  "pares_guardados": 144,
+  "pares_ejecutados_esta_vez": 144,
+  "regiones": 16,
+  "componentes": 9,
+  "ambito_comunas_ha": 75256754.2832255,
+  "advertencia": "No sumar superficies de distintos componentes. Indicador descriptivo; sin atribucion mineral. Requiere contrastar agregados nacionales con fuentes previamente auditadas.",
+  "humedales_suma_regional_ha": 5371068.180287392,
+  "humedales_coincidencia_suma_regional_ha": 614734.121044181
+}

@@ -1,0 +1,12 @@
+{
+  "id_fuente": "162",
+  "fuente": "OA_ENMC",
+  "region_asignada": "Región de Atacama",
+  "comuna_atributo_original": "CALDERA",
+  "criterio": "Huella OA original intersecta una unica region con area positiva; atributos originales concordantes",
+  "distancia_punto_region_m_aprox_epsg6933": 2.9825136654162665,
+  "distancia_local_aeqd_m_paso69e": 2.95,
+  "interseccion_huella_region_m2_epsg6933": 5978.827052210037,
+  "ist_recalculado": false,
+  "documentacion": "reports/enmc/69d_diagnostico_oa_162.json"
+}

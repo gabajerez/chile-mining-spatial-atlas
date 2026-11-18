@@ -1,0 +1,35 @@
+{
+  "paso": 72,
+  "fecha_utc": "2026-11-18T12:28:52.539139+00:00",
+  "estado": "VALIDADO",
+  "n_unidades_proyecto": 55,
+  "n_filas_proyecto_mineral": 55,
+  "n_minerales": 6,
+  "n_regiones": 8,
+  "fuente_auditoria": {
+    "archivo_auditoria_original": "C:\\Users\\Gabriela_Jerez\\Desktop\\MAPAS_GM\\outputs\\tables\\cochilco_integracion_proyectos.csv",
+    "estado": "VALIDADA_CON_INTEGRACION_HISTORICA_55_DE_57",
+    "n_originales": 57,
+    "n_seleccionados": 55,
+    "n_excluidos": 2,
+    "excluidos": [
+      {
+        "proyecto": "Extensión El Way Este",
+        "mineral": "Carbonato"
+      },
+      {
+        "proyecto": "Planta Paneles de Yeso y Ampliación Cantera Rubí",
+        "mineral": "Yeso"
+      }
+    ],
+    "observacion": "Cruce con tabla de integracion historica; no sustituye revisión del origen primario XLS/SEIA"
+  },
+  "cochilco_significado": "Institucion fuente; no equivale a un filtro exclusivo de mineral cobre",
+  "advertencias": [
+    "No asignar minerales de proyecto a concesiones; catastro no tiene mineral",
+    "Los promedios de grupos pequeños son descriptivos",
+    "Los proyectos COCHILCO son puntos, no superficies de intervención",
+    "Proyectos multiminéricos pueden contabilizarse en varios grupos",
+    "Las distancias de paso 66 sin candidato en 200 km no son distancias exactas"
+  ]
+}

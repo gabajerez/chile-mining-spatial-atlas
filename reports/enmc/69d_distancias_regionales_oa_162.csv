@@ -1,0 +1,17 @@
+﻿region,punto_intersecta,poligono_oa_intersecta,distancia_punto_m,distancia_poligono_m
+Región de Atacama,False,True,2.9469360736236347,0.0
+Región de Antofagasta,False,False,111470.2172838224,111389.55794519822
+Región de Coquimbo,False,False,220628.37883269502,220547.73291812514
+Región de Valparaíso,False,False,550420.9281978786,550337.8041845157
+Región de Tarapacá,False,False,615055.1845125323,614974.8781617223
+Región Metropolitana de Santiago,False,False,650358.5211242724,650274.9441074616
+Región del Libertador General Bernardo O'Higgins,False,False,754267.3588186865,754185.1446464569
+Región del Maule,False,False,853597.6426668384,853511.5082060689
+Región de Arica y Parinacota,False,False,868565.2643402901,868484.611720765
+Región de Ñuble,False,False,1008252.9568025025,1008166.3935683776
+Región del Biobío,False,False,1058891.6653395754,1058804.9711150627
+Región de La Araucanía,False,False,1181449.1014072238,1181362.7442530273
+Región de Los Ríos,False,False,1369673.855655718,1369587.7395983303
+Región de Los Lagos,False,False,1485484.7222153184,1485398.2948049707
+Región del General Carlos Ibañez del Campo,False,False,1848399.8695636315,1848314.42487505
+Región de Magallanes y de la Antártica Chilena,False,False,2417644.838912865,2417558.719047544

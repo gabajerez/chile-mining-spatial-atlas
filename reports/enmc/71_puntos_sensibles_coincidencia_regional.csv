@@ -1,0 +1,26 @@
+﻿componente,region,n_registros,n_coincidentes,porcentaje_registros_coincidentes
+AT,Región Metropolitana de Santiago,450,36,8.0
+AT,Región de Antofagasta,327,117,35.77981651376147
+AT,Región de Arica y Parinacota,236,37,15.677966101694915
+AT,Región de Atacama,204,60,29.41176470588235
+AT,Región de Coquimbo,343,75,21.865889212827987
+AT,Región de La Araucanía,365,1,0.273972602739726
+AT,Región de Los Lagos,341,7,2.0527859237536656
+AT,Región de Los Ríos,167,3,1.7964071856287425
+AT,Región de Magallanes y de la Antártica Chilena,202,3,1.4851485148514851
+AT,Región de Tarapacá,244,70,28.688524590163933
+AT,Región de Valparaíso,541,55,10.166358595194085
+AT,Región de Ñuble,68,1,1.4705882352941178
+AT,Región del Biobío,162,6,3.7037037037037037
+AT,Región del General Carlos Ibañez del Campo,237,3,1.2658227848101267
+AT,Región del Libertador General Bernardo O'Higgins,417,49,11.750599520383693
+AT,Región del Maule,333,10,3.003003003003003
+CI,Región Metropolitana de Santiago,9,2,22.22222222222222
+CI,Región de Antofagasta,51,15,29.41176470588235
+CI,Región de Atacama,175,46,26.285714285714285
+CI,Región de Coquimbo,37,7,18.91891891891892
+CI,Región de La Araucanía,2224,4,0.17985611510791366
+CI,Región de Los Ríos,2,0,0.0
+CI,Región de Tarapacá,80,32,40.0
+CI,Región de Valparaíso,7,0,0.0
+CI,Región del Biobío,318,4,1.2578616352201257

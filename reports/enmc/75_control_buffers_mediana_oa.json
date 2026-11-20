@@ -1,0 +1,18 @@
+{
+  "estado": "COMPLETO",
+  "fecha_utc": "2026-11-20T15:33:01.005335+00:00",
+  "universo_oa": 292,
+  "universo_proyectos": 55,
+  "geometrias_oa_reparadas": 2,
+  "auditoria_reparaciones": "reports/enmc/75_auditoria_geometrias_oa.csv",
+  "area_mediana_oa_ha": 115.68262558921771,
+  "diametro_equivalente_teorico_m": 1213.6378930265148,
+  "rango_diametros_locales_m": [
+    1213.6988201471738,
+    1213.6988201471738
+  ],
+  "desviacion_maxima_area_m2": 2.0069535821676254e-05,
+  "crs_area": "EPSG:6933",
+  "metodo": "circulo AEQD local ajustado para area EPSG:6933",
+  "limitacion": "Buffer analitico sin equivalencia comprobada con intervencion real; diametro local ajustado por proyeccion"
+}

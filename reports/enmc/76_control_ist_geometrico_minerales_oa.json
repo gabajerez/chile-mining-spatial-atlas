@@ -1,0 +1,16 @@
+{
+  "estado": "COMPLETO",
+  "fecha_utc": "2026-11-20T17:40:38.965504+00:00",
+  "fuentes": {
+    "OA": 292,
+    "COCHILCO": 55
+  },
+  "medida": "distancia minima desde geometria completa",
+  "oa": "huellas OA poligonales provisionales; mineral de campo minerales_enmc con auditoria MINERAL",
+  "proyectos": "buffer circular calibrado a mediana de area individual OA",
+  "n_etiquetas_oa": 327,
+  "n_minerales_distintos_oa": 8,
+  "no_sumar_areas_entre_minerales": "huellas multiminéricos pueden duplicarse entre grupos",
+  "fuente_HU": "Inventario MMA 56",
+  "limitacion": "No representa ocupacion futura verificada ni actividad OA confirmada"
+}

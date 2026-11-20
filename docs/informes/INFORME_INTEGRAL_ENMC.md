@@ -1,5 +1,56 @@
 # Informe integral — Atlas de minerales críticos y sensibilidad territorial
 
+<!-- ENMC_77_NUEVA_GEOMETRIA_INICIO -->
+## Actualización metodológica vigente — polígonos OA y buffers equivalentes (pasos 75b–76)
+
+**Esta sección reemplaza para la comparación geométrica principal la comparación puntual de los pasos 66–69f.** Los valores del IST puntual (OA 28,292; proyectos 25,067) se preservan únicamente como sensibilidad metodológica histórica. Las cifras antiguas de polígonos frente a puntos no deben utilizarse como comparación vigente.
+
+- **292 polígonos OA:** áreas medidas en EPSG:6933; dos geometrías inválidas reparadas con auditoría.
+- **55 proyectos:** buffers circulares hipotéticos ajustados para igualar el área mediana OA (**115,682626 ha**; diámetro equivalente teórico **1.213,638 m**).
+- Los buffers **no son huellas de proyecto ni estimaciones de superficie de intervención futura**.
+- Aunque las superficies de los buffers son homogéneas, los polígonos OA mantienen sus tamaños y formas originales; esta comparabilidad es parcial.
+
+### Indicador principal actualizado
+
+| Fuente | Geometría utilizada | Unidades | IST medio | IST mediano |
+|---|---|---:|---:|---:|
+| Huellas OA | Polígono original | 292 | 31,053 | 30,038 |
+| Proyectos | Buffer circular de área mediana OA | 55 | 26,211 | 23,675 |
+
+**Diferencia descriptiva de medias (OA − proyectos): 4,842 puntos.**
+
+### IST de huellas OA por mineral registrado
+
+| Mineral OA | Huellas asociadas | IST medio | IST mediano |
+|---|---:|---:|---:|
+| cobre | 194 | 32,709 | 31,025 |
+| hierro | 45 | 29,442 | 30,925 |
+| oro | 44 | 31,732 | 33,013 |
+| plata | 22 | 35,043 | 33,725 |
+| yodo | 13 | 20,048 | 17,050 |
+| litio | 5 | 30,725 | 35,325 |
+| molibdeno | 3 | 16,117 | 13,025 |
+| tierras_raras | 1 | 50,975 | 50,975 |
+
+**Atención:** 327 asociaciones mineral–huella corresponden a 292 polígonos OA; los grupos minerales son multietiqueta y sus áreas no se suman como total territorial.
+Las concesiones constituidas no están atribuidas por mineral en el catastro y los promedios de categorías con pocos registros deben interpretarse con cautela.
+
+### Respaldos de la actualización
+
+- [Anexo técnico con aportes de los nueve componentes y limitaciones](76_anexo_ist_buffers_minerales_oa.md)
+- [Resultado por fuente](../../reports/enmc/76_resumen_fuentes.csv)
+- [Detalle IST por unidad](../../reports/enmc/76_ist_poligonos_buffers.csv)
+- [Resultados OA por mineral](../../reports/enmc/76_oa_resumen_por_mineral.csv)
+- [Asociaciones mineral–huella](../../reports/enmc/76_oa_unidades_por_mineral.csv)
+- [Resultados mineral–región](../../reports/enmc/76_oa_mineral_por_region.csv)
+- [Auditoría de geometrías reparadas](../../reports/enmc/75_auditoria_geometrias_oa.csv)
+- [Control de equivalencia de buffers](../../reports/enmc/75_control_buffers_mediana_oa.json)
+- [Control del IST geométrico](../../reports/enmc/76_control_ist_geometrico_minerales_oa.json)
+- [Código de buffers](../../src/75b_buffers_equivalentes_mediana_oa.py) y [código IST por geometría/mineral](../../src/76_ist_poligonos_buffers_y_minerales_oa.py)
+
+<!-- ENMC_77_NUEVA_GEOMETRIA_FIN -->
+
+
 > **Actualizado desde outputs locales:** 2026-11-18 12:57 UTC. 
 > **Alcance:** 343 comunas, 16 regiones, 347 unidades IST, 11 capas para 9 componentes. Los indicadores describen proximidad y coincidencias espaciales, no impacto ambiental efectivo.
 
@@ -333,3 +384,16 @@ Las rutas siguientes se publican con este informe mediante el procedimiento sele
 ---
 
 *Generado automáticamente por `src/74_actualizar_informe_integral_enmc.py` a partir de outputs disponibles en el repositorio de trabajo.*
+
+<!-- ENMC_GEOMETRIAS_EQUIVALENTES_INICIO -->
+
+## Actualización: buffers equivalentes y minerales OA
+
+La comparación adicional usa la geometría completa de las 292 huellas OA y buffers de área equivalente a la mediana de esas huellas para los 55 puntos de proyectos. Son círculos analíticos, no polígonos de intervención. La comparación puntual del paso 66 se conserva por separado.
+
+- Superficie mediana OA y diámetro: [control paso 75](../../reports/enmc/75_control_buffers_mediana_oa.json).
+- [Informe por mineral OA y nuevo IST](76_resultados_oa_minerales_y_buffers.md).
+- [Resultados individuales](../../reports/enmc/76_ist_poligonos_buffers.csv).
+- [Resultados por mineral OA](../../reports/enmc/76_oa_resumen_por_mineral.csv).
+
+<!-- ENMC_GEOMETRIAS_EQUIVALENTES_FIN -->

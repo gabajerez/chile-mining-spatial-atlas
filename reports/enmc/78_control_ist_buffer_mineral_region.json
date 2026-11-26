@@ -1,0 +1,21 @@
+{
+  "paso": 78,
+  "estado": "COMPLETO",
+  "fecha_utc": "2026-11-26T12:27:31.814899+00:00",
+  "ist_fuente": "76_ist_poligonos_buffers.csv",
+  "clasificacion_region_fuente": "72_matriz_proyecto_mineral_region_componentes.csv",
+  "ist_geometria": "BUFFER_CIRCULAR_MEDIANA_OA",
+  "n_proyectos_unicos": 55,
+  "n_asociaciones_proyecto_mineral": 55,
+  "n_regiones_con_proyectos": 8,
+  "n_minerales": 6,
+  "ist_global_proyectos_ponderado_por_unidades": 26.21136363636364,
+  "cambio_metodologico": "Puntajes del paso 72 puntual NO usados: se sustituyen por métricas buffer del paso 76",
+  "advertencias": [
+    "Las áreas circulares de referencia no son huellas reales de proyectos",
+    "No sumar conteos si existen proyectos multiminéricos",
+    "No calcular el total global como promedio simple de promedios de minerales o regiones",
+    "Las regiones son las asignaciones espaciales del paso 69f heredadas por la matriz 72",
+    "El IST es una puntuación de sensibilidad, no un porcentaje de superficie afectada"
+  ]
+}
